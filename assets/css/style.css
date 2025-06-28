@@ -432,4 +432,15 @@ color: var(--cor-fonte);
     .novoMenu nav ul li a{
 color: var(--cor-fonte);
 } 
+
+.ver-produto .col-2 {
+    margin: 20px 0;
+}
+.ver-produto .linha {
+    text-align: left;
+}
+.ver-produto h1 {
+    font-size: 26px;
+    line-height: 26px;
+}
 }
